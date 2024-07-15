@@ -1,0 +1,22 @@
+form{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+padding: 10px;
+
+}
+
+.container{
+    border-width: 5px;
+    border-style: solid;
+    border-color:rgb(red, green, blue);
+    width: 20%;
+    height: 400px;
+    box-sizing: border-box;
+    background-color: rgb(120, 130, 150);
+}
+h2{
+    color:blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
